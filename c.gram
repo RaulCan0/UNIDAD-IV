@@ -1,3 +1,7 @@
+//Alumno Raúl Cano Briseño
+Gramatica:  a;
+{
+
     Programa  -> Librerias? Variables? Main
     Librerias -> #include<identificador(.h)?> Librerias?
     Variables -> tipo_dato Lista_identificadores; Variables?

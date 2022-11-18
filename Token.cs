@@ -1,13 +1,13 @@
 //Alumno Raúl Cano Briseño
 namespace GENERADOR
 {
-    public class Token
+public class Token
     {
         private string Contenido = "";
         private Tipos Clasificacion;
         public enum Tipos
         {
-            Identificador, Produce
+            Produce, SNT, ST, FinProduccion
         }
 
         public void setContenido(string contenido)

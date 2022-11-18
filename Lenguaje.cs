@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace GENERADOR
 {
-    public class lenguaje : Sintaxis, IDisposable
+    public class Lenguaje : Sintaxis, IDisposable
     {
          public void Dispose()
         {
